@@ -1,0 +1,17 @@
+h3 {
+	margin-left: 20px;
+}
+
+.powerSelect {
+	margin-left: 20px;
+}
+
+.box {
+	background-color: lightyellow;
+	display: inline-block;
+	margin: 20px;
+	padding: 10px;
+	width: 200px;
+	vertical-align: top;
+	border: 1px solid black;
+}
